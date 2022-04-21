@@ -13,6 +13,19 @@
 
 ## Installation Guide
 
+Install [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/) on your system.
+
+Install or open [Postman](https://www.postman.com/).
+
+on terminal write:
+
+```
+npm install 
+npm start
+```
+
+Open Postman application to test below routes...
+
 ## API References
     
 | Reference                  | Method | Purpose                                                                | Protected |
